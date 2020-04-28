@@ -36,7 +36,7 @@ status)
 ;;  
 *)
   echo "Script Usage:( $0 lp-cpalm & / $0 slp-tw &)."
-  echo "lp-cpalm for lanplay.cpalm.org:11451"
+  echo "lp-cpalm for lanplay.cpalm.org:11456"
   echo "slp-tw for connect switchlanplay-tw.ddns.net:11451"
   echo "status for LanPlay-Rpi & Server check."
   exit
