@@ -1,9 +1,10 @@
 # lanplay-rpi
 Step 1：
+
 cd /home/pi
 vim .bashrc
 copy below lines and paste into .bashrc
-
+`
 #Add by Maruku Lin
 echo "======================================================"
 echo "You have 10 Seconds to stop Server to HIT [ CTRL + C ]"
@@ -18,5 +19,5 @@ echo "======================================================"
 sleep 10
 #Deafult connect to port 11452
 /home/pi/lanplay-rpi.sh lp-cpalm &
-
-save & exit
+`
+save & exit the .bashrc
